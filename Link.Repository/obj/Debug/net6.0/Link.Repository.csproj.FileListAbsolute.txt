@@ -1,5 +1,0 @@
-D:\miriSqLink\ConsoleApp1\Link.Repository\obj\Debug\net6.0\Link.Repository.csproj.AssemblyReference.cache
-D:\miriSqLink\ConsoleApp1\Link.Repository\obj\Debug\net6.0\Link.Repository.GeneratedMSBuildEditorConfig.editorconfig
-D:\miriSqLink\ConsoleApp1\Link.Repository\obj\Debug\net6.0\Link.Repository.AssemblyInfoInputs.cache
-D:\miriSqLink\ConsoleApp1\Link.Repository\obj\Debug\net6.0\Link.Repository.AssemblyInfo.cs
-D:\miriSqLink\ConsoleApp1\Link.Repository\obj\Debug\net6.0\Link.Repository.csproj.CoreCompileInputs.cache
